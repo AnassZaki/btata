@@ -9,6 +9,9 @@
   "author": "Anass & Achraf",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.1.1"
+    "discord.js": "^12.1.1",
+    "ffmpeg-static": "^4.1.1",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^2.0.1"
   }
 }
